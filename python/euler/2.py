@@ -22,4 +22,4 @@ def under_1m(seq):
         yield i
 
 
-print(list(even(under_1m(fib()))))
+print(list(under_1m(even(fib()))))
