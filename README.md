@@ -1,2 +1,2 @@
-# challenges
-Programming Challenges
+# Python Expoloration
+Concepts, Challenges..etc
